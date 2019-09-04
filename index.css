@@ -1,0 +1,27 @@
+#head{
+	text-align: center;
+}
+.rand{
+	text-align: center;
+}
+
+.tab{
+	color: white;
+	text-align: center;
+	display: table;
+	height: 400px;
+	width: 300px;
+	font-size: 18px;
+	position: center;
+}
+
+html{background-image: url(https://i.pinimg.com/originals/0f/18/72/0f1872ae8eef2e9e06c32d0e30277ac2.jpg);
+
+}
+h2{
+	color:white;
+}
+li{
+	color: white;
+	font-size: 18px;
+}
